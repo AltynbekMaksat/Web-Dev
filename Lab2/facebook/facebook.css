@@ -7,9 +7,7 @@ body{
 form{
     background-color: #ffffff;
     position: absolute;
-    width: 320px;
-    height: 290px;
-    padding: 10px 5px 20px 5px;
+    padding: 15px 5px 20px 5px;
     margin: 25vh 800px;
     border-radius: 10px;
     box-shadow: 5px 6px 6px -7px;
@@ -19,7 +17,7 @@ input[type='text'], input[type='password']{
     background-color: rgb(255, 255, 255);
     margin: auto;
     border: 1.5px solid rgb(224, 224, 224);
-    width: 280px ;
+    width: 280px;
     padding: 10px 5px;
     border-radius: 5px;
     text-align: left;
@@ -34,11 +32,11 @@ button{
     color: white;
     margin: 10px 20px;
     width: 283px;
-    display: block;
     border-radius: 5px;
     padding: 10px;
     font-weight: bold;
     cursor: pointer;
+    pointer-events: auto;
 }
 
 .f-pws{
@@ -47,7 +45,7 @@ button{
     margin: auto;
     color:#1877f2;
     padding-left: 80px;
-    top: 1px;
+    /*top: 1px;*/
     font-family: "Segoe UI", serif;
     font-weight: 400;
     text-decoration: none;
@@ -78,7 +76,6 @@ button{
     position: absolute;
     top: 330px;
     left: 180px;
-    width: 100%;
     color: rgb(0, 0, 0);
     font-family: "Segoe UI", Arial, serif;
     font-size: 1.7rem;
@@ -86,7 +83,7 @@ button{
 
 .left-top {
     position: absolute;
-    width: 100%;
+    font-family: "Segoe UI", Arial, serif;
     top: 250px;
     left: 180px;
     color: rgb(51, 102, 255);
