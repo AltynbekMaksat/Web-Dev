@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69cf5010-7e9e-469c-8a87-453ec5752a4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Web-Dev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/khanacademy/lesson2/colorful creature.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/khanacademy/lesson2/colorful creature.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/khanacademy/lesson2/seasonal ids.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/khanacademy/lesson2/seasonal ids.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/khanacademy/lesson3/jump around.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/khanacademy/lesson3/jump around.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Microsoft/microsoft.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Microsoft/microsoft.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Microsoft/microsoft.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Microsoft/microsoft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/facebook/facebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/facebook/facebook.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/facebook/facebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/facebook/facebook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/instagram/inst.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/instagram/inst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/instagram/inst.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/instagram/inst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/toDo/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/toDo/app.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AltynbekMaksat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AltynbekMaksat/Web-Dev.git&quot;,
+    &quot;accountId&quot;: &quot;8d9e0e2a-bb2d-4a7a-9ff5-c546a6fa6628&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2t8HKJ4JPwseHfKTFskqN0g5GLO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.120" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69cf5010-7e9e-469c-8a87-453ec5752a4c" name="Changes" comment="" />
+      <created>1739726717178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739726717178</updated>
+      <workItem from="1739726718205" duration="432000" />
+      <workItem from="1739727181079" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

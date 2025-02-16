@@ -1,0 +1,22 @@
+<div class="container">
+    <p>Product catalog</p>
+</div>
+<div class="products">
+    <div *ngFor="let product of products" class="product-card">
+      
+      <img [src]="product.image" [alt]="product.name" class="product-img">
+      <div class="line"></div>
+      <h2>{{ product.name }}</h2>
+      <p>{{ product.description }}</p>
+      <p>⭐ Rating: {{ product.rating }}</p>
+
+      <div class="gallery">
+        <img *ngFor="let img of product.images" [src]="img" [alt]="product.name" class="gallery-img">
+      </div>
+      <div class="logo">
+        <fa-icon [icon]="faWhatsapp" class="whatsapp-icon" (click)="shareOnWhatsApp(product.link)"></fa-icon>
+        <fa-icon [icon]="faTelegram" class="tele-icon" (click)="shareOnTelegram(product.link)"></fa-icon>
+      </div>    
+    </div>
+  </div>
+  
