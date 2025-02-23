@@ -1,0 +1,22 @@
+<div class="container">
+  <button (click)="toggleMenu()" class="menu-btn">Категории</button>
+
+  <div class="dropdown-menu" *ngIf="isMenuOpen">
+    <ul>
+      <li *ngFor="let category of categories" (click)="selectCategory(category)">
+        {{ category }}
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div *ngIf="selectedCategory" class="products">
+    <h2>Товары в категории: {{ selectedCategory }}</h2>
+    <div *ngFor="let product of products[selectedCategory]"  class="product-card">
+      <img [src]="product.image" [alt]="product.name" class="product-img">
+      <div class="line"></div>
+      <p>{{ product.name }}</p>
+      <p>{{ product.price }}₸</p>
+      <p> Rating: {{product.rating}}</p>
+    </div>
+</div>
